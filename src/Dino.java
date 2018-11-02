@@ -23,4 +23,7 @@ public class Dino {
             System.out.println("You did wrong");
         }
     }
+    public void jump() {
+        //arrays for jump? 8 lines up 60 lines across
+    }
 }

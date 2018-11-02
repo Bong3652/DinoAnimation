@@ -17,7 +17,7 @@ public class WelcomeThread implements Runnable {
                 for (int i = 0; i < line.length(); i++) {
                     System.out.print(line.charAt(i));
                     try {
-                        Thread.sleep(10);
+                        Thread.sleep(50);
                     } catch (InterruptedException welcomeSleep) {
                         System.out.println("Welcome Sleeping");
                     }
