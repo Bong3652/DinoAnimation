@@ -25,7 +25,7 @@ public class WelcomeThread implements Runnable {
                 System.out.println();
                 line = readingDino.readLine();
             }
-            System.out.println();
+            System.out.println("\n");
         } catch (IOException e) {
             System.out.println("You did wrong");
         }

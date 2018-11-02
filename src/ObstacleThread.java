@@ -7,7 +7,7 @@ import java.util.Random;
 public class ObstacleThread implements Runnable {
     @Override
     public void run() {
-        for (int i = 1; i < 4; i++) {
+        for (int i = 1; i < 7; i++) {
             File dinoFile = new File("TextFiles/Scene" + i);
             try {
                 BufferedReader readingDino = new BufferedReader(new FileReader(dinoFile));
