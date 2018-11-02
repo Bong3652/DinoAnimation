@@ -1,7 +1,5 @@
 # DinoAnimation
-
-Let's jump over the 0bstacle(IU) together! :3
-          
+Let's jump over the 0bstacle(IU) together! :3        
                __
               / _)
      _.----._/ /
